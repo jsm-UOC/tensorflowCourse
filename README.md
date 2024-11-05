@@ -1,3 +1,3 @@
 # tensorflowCourse
 
-Execercises and projects done during TensorFlow for Deep Learning Bootcamp
+Exercises and projects done during TensorFlow for Deep Learning Bootcamp
